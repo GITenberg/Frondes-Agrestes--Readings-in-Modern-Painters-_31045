@@ -1,0 +1,39 @@
+_repo: Frondes-Agrestes--Readings-in-Modern-Painters-_31045
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Beever, Susanna
+    deathdate: 1893
+    gutenberg_agent_id: '39628'
+    url: http://www.gutenberg.org/2009/agents/39628
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ruskin, John
+    alias: Ruskin, J. (John)
+    birthdate: 1819
+    deathdate: 1900
+    gutenberg_agent_id: '359'
+    url: http://www.gutenberg.org/2009/agents/359
+    wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
+description: 'In an effort to give his friends and the public what they wanted, Ruskin
+  republished parts of his monumental Modern Painters in this volume: a collection
+  of selections a dear friend decided were most relevant at the time. Here are Ruskin''s
+  Principles of "Art", "Power and Office of Imagination", "Education", "Moralities",
+  and musings on different aspects of nature.'
+gutenberg_issued: '2010-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31045'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Painting'
+- !lcc 'N'
+- !lcsh 'Art'
+title: 'Frondes Agrestes: Readings in ''Modern Painters'''
+url: http://www.gutenberg.org/ebooks/31045
